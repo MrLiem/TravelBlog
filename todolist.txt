@@ -1,0 +1,13 @@
+1) Setup: Server
+- Install Dependencies
+-Install/ Setup Listener
+-Setup Express App
+-Setup Not Found and Error Middlewares
+2) Model DB
+-What data will be store?
+3) Setup Mongoose Model(s)
+4) POST /logs
+-Create a new log entry
+5)GET/logs
+-List all log entries
+6)Setup Client
